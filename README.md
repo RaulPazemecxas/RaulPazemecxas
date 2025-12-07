@@ -6,7 +6,7 @@
   <img align="center" alt="Raul-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Raul-Shell" height="60" width="60" src="https://miro.medium.com/max/1024/0*xoF4pubIjvqOzk3U.png">
   <img align="center" alt="Raul-C++" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png">
-  <img align="center" alt="Raul-Go" height="60" width="60" src="https://www.pragimtech.com/wp-content/uploads/2020/08/golang.png">
+  <img align="center" alt="Raul-Go" height="60" width="60" src="https://iconlogovector.com/uploads/images/2024/04/lg-6619d74e0c9e1-GO-Golang.webp">
 
 
   </div>
