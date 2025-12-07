@@ -5,7 +5,7 @@
   <img align="center" alt="Raul-CSS" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raul-Python" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Raul-Shell" height="60" width="60" src="https://miro.medium.com/max/1024/0*xoF4pubIjvqOzk3U.png">
-  <img align="center" alt="Raul-C++" height="60" width="60" src="https://e7.pngegg.com/pngimages/724/306/png-clipart-c-logo-c-programming-language-icon-letter-c-blue-logo.png">
+  <img align="center" alt="Raul-C++" height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/911px-ISO_C%2B%2B_Logo.svg.png">
 
 
   </div>
